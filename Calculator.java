@@ -7,6 +7,8 @@ import java.util.Scanner;
 public class Calculator {
 
     public static void main(String[] args) {
+        System.out.println("Zahedullah er helt død"); //jk mate
+
 
         char calculate;
         Double num, num2, result;
