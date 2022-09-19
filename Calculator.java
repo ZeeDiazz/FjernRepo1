@@ -2,8 +2,6 @@ package FjernRepo;
 
 import java.util.Scanner;
 
-//Zig-Zag-Zigalow
- //jeg smadre dig sejt, din inder
 public class Calculator {
 
     public static void main(String[] args) {
