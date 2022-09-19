@@ -2,6 +2,7 @@ package FjernRepo;
 
 import java.util.Scanner;
 
+//Zig-Zag-Zigalow
 
 public class Calculator {
 
