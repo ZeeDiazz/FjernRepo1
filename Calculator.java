@@ -8,7 +8,7 @@ public class Calculator {
 
     public static void main(String[] args) {
 
-        System.out.println("Zacharias er helt død"); //jk mate
+        System.out.println("Zahedullah er helt død"); //jk mate
 
 
 
